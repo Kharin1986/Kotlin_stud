@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kotlin_stud</string>
+    <string name="push">PUSH</string>
 </resources>
